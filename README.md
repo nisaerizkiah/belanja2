@@ -10,4 +10,4 @@ Selain itu, pada halaman aplikasi saya menambahkan footer menggunakan bottomNavi
 ## Hasilnya 
 - **HomePage** → menampilkan daftar produk dalam grid  
 - **ItemPage** → menampilkan detail produk yang dipilih  
-- **Footer** → selalu tampil di bawah aplikasi berisi Nama & NIM  
+- **Footer** → selalu tampil di bawah halaman berisi Nama & NIM  
